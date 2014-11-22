@@ -36,4 +36,4 @@ cacheSolve <- function(x, ...) {
   m
 }
 #end
-#Author: Chad Davis
+#Author: Chad R. Davis
